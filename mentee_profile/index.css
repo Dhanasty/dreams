@@ -1,0 +1,140 @@
+*{
+    font-family: 'Montserrat';
+}
+
+a{
+    color: #1C7730;
+}
+
+
+.header{
+    width: 100%;
+    height: 140px;
+    background-color: #1C7730;
+    
+}
+.title{
+    float: left;
+    color: white;
+    font-size: 64px;
+}
+img{
+    float: left;
+}
+.logout{
+    position: relative;
+    font-size: 24px;
+    cursor: pointer;
+    float: right;
+    padding-top: 50px;
+    padding-right: 50px;
+    color: white;
+}
+
+.logout:hover{
+    color: #fff;
+    top: -2px;
+}
+
+.profile button{
+    position: relative;
+    width: 351px;
+    height: 97px;
+    /* left: 13px;
+    top: 157px; */
+    background: #3e9150;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+
+.id h1{
+    position: relative;
+    width: 351px;
+    height: 114px;
+    /* left: 17px;
+    top: 289px; */
+    background: #C2ECAE;
+    border-radius: 20px;
+}
+
+.id div{
+    position: relative;
+    width: 305.2px;
+    height: 70.05px;
+    /* left: 37.41px;
+    top: 310.98px; */
+    background: #1C7730;
+    border-radius: 10px;
+}
+
+.id h3{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top:20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.task {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    background: #C2ECAE;
+    border-radius: 20px;
+}
+
+.task h2{
+    position: relative;
+    width: 68px;
+    height: 47px;
+    font-style: normal;
+    font-weight:800;
+    font-size: 24px;
+    text-decoration-line: underline;
+    color: #000000;   
+}
+
+.task img{
+    position: relative;
+    width: 75px;
+    height: 75px;
+}
+
+.bar{
+    position: relative;
+    width: 700px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+.gr h1{
+    position: relative;
+    width: 614px;
+    height: 353px;
+    background: #C2ECAE;
+    border-radius: 20px;
+}
+
+.notes h1{
+    margin-left: 70px;
+    position: relative;
+    width: 366px;
+    height: 353px;
+    background: #C2ECAE;
+    border-radius: 20px;
+}
+
+.notes h2{
+    position: relative;
+    width: 109.8px;
+    height: 66.36px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000000;   
+}
